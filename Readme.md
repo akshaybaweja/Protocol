@@ -18,6 +18,7 @@ Assignment: Protocol
 * [Arduino Nano Code](./elastic_spaces_wrist_band/elastic_spaces_wrist_band.ino)
 * [Telegram Bot, Emotion Analysis & MQTT Publisher](./protocol.py)
 * [Connector - Arduino and MQTT Server](./connector.py)
+* [Emotion Expression on Haptic Wrist Band](./haptic-emotions.pdf)
 
 # Protocol for sending data
 \*\<intensity>@\<frameDelay>$\<frames>#\<frameData>*
